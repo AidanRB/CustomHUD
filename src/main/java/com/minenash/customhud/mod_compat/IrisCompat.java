@@ -4,8 +4,8 @@ import com.minenash.customhud.HudElements.supplier.BooleanSupplierElement;
 import com.minenash.customhud.HudElements.supplier.NumberSupplierElement;
 import com.minenash.customhud.HudElements.supplier.StringSupplierElement;
 import com.minenash.customhud.data.Flags;
-import net.coderbot.iris.Iris;
-import net.coderbot.iris.shaderpack.ShaderPack;
+import net.irisshaders.iris.Iris;
+import net.irisshaders.iris.shaderpack.ShaderPack;
 
 import java.util.Optional;
 import java.util.function.Supplier;

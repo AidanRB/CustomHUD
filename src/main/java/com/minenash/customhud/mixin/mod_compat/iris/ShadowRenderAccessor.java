@@ -1,7 +1,7 @@
 //package com.minenash.customhud.mixin.mod_compat.iris;
 //
-//import net.coderbot.iris.mixin.LevelRendererAccessor;
-//import net.coderbot.iris.pipeline.ShadowRenderer;
+//import net.irisshaders.iris.mixin.LevelRendererAccessor;
+//import net.irisshaders.iris.pipeline.ShadowRenderer;
 //import net.minecraft.client.render.Camera;
 //import net.minecraft.client.render.WorldRenderer;
 //import org.spongepowered.asm.mixin.Mixin;
